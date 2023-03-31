@@ -8,11 +8,6 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="test">
-    Solde 12/17/2007
-    <button onclick="disparition()">Acheter</button>
-</div>
-
 </body>
 <script src="main.js"></script>
 </html>
